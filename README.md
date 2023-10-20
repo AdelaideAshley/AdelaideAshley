@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I hope I can learn a lot here.
+
 <!--
 **AdelaideAshley/AdelaideAshley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
